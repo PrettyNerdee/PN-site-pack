@@ -1,1 +1,29 @@
-body { font-family: 'CustomFont', sans-serif; background: #000; color: #fff; }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0e002d;
+    color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 100px;
+    margin: 20px;
+}
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #1b0045;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #220052;
+    text-align: center;
+    padding: 10px;
+}
+a {
+    color: #ff69b4;
+    text-decoration: none;
+}
